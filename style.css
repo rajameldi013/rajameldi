@@ -1,0 +1,161 @@
+#main{
+background:white;
+border:5px solid #FFBF00;
+border-radius:7px;
+width:100%;
+margin:2%,5%,0%,2%;
+
+border-style:solid;
+border-image:linear-gradient(#FFFF00,#FFBF00) 30/5px;
+
+}
+#header{
+background:linear-gradient(to right,#FFFF00,#FFBF00);
+padding:10px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+height:120px;
+
+}
+.img-1{
+	float:left;
+	width:100px;
+}
+#raja{
+		display:inline-block;
+		margin:0 auto;
+		width:100px;
+}
+.kaka-1{
+	float:right;
+	width:100px;
+}
+#menu{
+background-color:#32A700;
+color:white;
+display:flex;
+}
+
+.menu{
+	border-radius:20px;
+	border-right:2px solid white;
+	box-shadow: 2px 2px 2px #D7D8C2;
+margin-left:auto;
+margin-right:auto;
+padding:10px;
+flex:1;
+}
+.a1{
+	
+	text-decoration:none;
+	color:white;
+	font-size:35px;
+	margin-top:10px;
+	margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+	
+}
+#video{
+
+}
+#content{
+
+}
+.img-2{
+float:left;
+border:15px solid transparent;
+border-image-source:url("E:\Raja Meldi\images\border.jpg");
+border-image-repeat:round;
+border-image-slice:10;
+margin:10px 10px 10px 10px;
+}
+.welcome{
+	margin:10px 10px 10px 20px;
+	padding-left:10px;
+	font-family:arial;
+	color:#FF6400;
+	font-size:30px;
+}
+#link{
+display:flex;
+width:100%;
+}
+.link{
+margin-left:auto;
+margin:right:auto;
+padding:10px;
+flex:1;
+}
+#footer{
+	background-color:#32A700;
+color:white;
+text-align:center;
+border-radius:30px;
+}
+
+
+#copyright{
+background-color:white;
+text-align:center;
+}
+#find-out-more{
+text-align:center;
+background-color:#FF3E61;
+}
+#contact-us{
+text-align:center;
+background-color:#78FF3E;
+
+
+}
+#location{
+	text-align:center;
+background-color:#FF3E61;
+
+}
+#history{
+	margin:auto;
+	padding-left:10px;
+	padding-right:10px;
+	font-size:20px;
+	font-family:"arial","times-new-roman";
+	line-height:1.5em;
+    }
+#founder{
+	margin:auto;
+	padding-left:10px;
+	padding-right:10px;
+	font-size:20px;
+	font-family:"arial","times-new-roman";
+    line-height:1.5em;
+	}
+#worshipping{
+	margin:auto;
+	padding-left:10px;
+	padding-right:10px;
+	font-size:20px;
+	font-family:"arial","times-new-roman";
+    line-height:1.5em;
+	}
+#activities{
+	margin:auto;
+	padding-left:10px;
+	padding-right:10px;
+	font-size:20px;
+	font-family:"arial","times-new-roman";
+    line-height:1.5em;
+	}
+#donation{
+margin:10px 10px 0px 10px;
+padding:10px 10px 0px 10px;
+font-size:20px;
+line-height:1.5em;
+}	
+#contact{
+font-size:25px;
+margin:10px 10px 0px 10px;
+padding:10px 10px 0px 10px;
+line-height:1.5em;
+}
