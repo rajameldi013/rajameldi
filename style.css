@@ -89,6 +89,7 @@ padding:10px;
 flex:1;
 }
 #footer{
+	font-size:35px;
 	background-color:#32A700;
 color:white;
 text-align:center;
