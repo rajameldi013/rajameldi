@@ -125,6 +125,9 @@ background-color:#D8C521;
 }
 
 
+
+
+
 #history{
 	margin:auto;
 	padding-left:10px;
@@ -161,12 +164,61 @@ background-color:#D8C521;
     line-height:1.5em;
 	}
 
+
+
+
+#act{
+border:2px solid black;
+border-radius:25px;
+}
+.content{
+padding:5 5 5 5px;
+}
+.row{
+display:flex;
+flex-wrap:wrap;
+padding:0 4px;
+}
+.column{
+flex:50%;
+max-width:25%;
+padding:0 4px;
+}
+.column img{
+border-radius:25px;
+margin-top:8px;
+margin-bottom:8px;
+vertical-align:middle;
+width:90%
+}
+
+@media screen and (max-width:800px){
+.column{
+flex:50%;
+max-width:50%;
+}
+}
+@media screen and (max-width:600px)
+{
+.column{
+flex:100%;
+max-width:100%;
+}
+}
+
+
+
+
 #donation{
 margin:10px 10px 0px 10px;
 padding:10px 10px 0px 10px;
 font-size:20px;
 line-height:1.5em;
 }
+
+
+
+
 
 #contact{
 font-size:25px;
