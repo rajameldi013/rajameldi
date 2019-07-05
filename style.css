@@ -1,4 +1,4 @@
-<!--css of full div-->
+
 #main{
 background:white;
 border:5px solid #FFBF00;
@@ -10,7 +10,7 @@ border-style:solid;
 border-image:linear-gradient(#FFFF00,#FFBF00) 30/5px;
 
 }
-<!--css of header-->
+
 #header{
 background:linear-gradient(to right,#FFFF00,#FFBF00);
 padding:10px;
@@ -34,7 +34,7 @@ height:120px;
 	width:100px;
 }
 
-<!--css of menu-->
+
 #menu{
 background-color:#32A700;
 color:white;
@@ -61,11 +61,11 @@ flex:1;
     padding:10px;
 	
 }
-<!--css of video gif-->
+
 #video{
 
 }
-<!--css of main content-->
+
 #content{
 
 }
@@ -84,7 +84,7 @@ margin:10px 10px 10px 10px;
 	color:#FF6400;
 	font-size:30px;
 }
-<!--css of find out more ,contact,location-->
+
 #link{
 display:flex;
 width:100%;
@@ -95,7 +95,7 @@ margin:right:auto;
 padding:10px;
 flex:1;
 }
-<!--css of footer-->
+
 #footer{
 	background-color:#32A700;
        color:white;
@@ -124,7 +124,7 @@ background-color:#D8C521;
 
 }
 
-<!--css of history about us page-->
+
 #history{
 	margin:auto;
 	padding-left:10px;
@@ -133,7 +133,7 @@ background-color:#D8C521;
 	font-family:"arial","times-new-roman";
 	line-height:1.5em;
     }
-<!--css of founder about us page-->
+
 #founder{
 	margin:auto;
 	padding-left:10px;
@@ -142,7 +142,7 @@ background-color:#D8C521;
 	font-family:"arial","times-new-roman";
     line-height:1.5em;
 	}
-<!--css of worshipping about us page-->
+
 #worshipping{
 	margin:auto;
 	padding-left:10px;
@@ -151,7 +151,7 @@ background-color:#D8C521;
 	font-family:"arial","times-new-roman";
     line-height:1.5em;
 	}
-<!--css of activities about us page-->
+
 #activities{
 	margin:auto;
 	padding-left:10px;
@@ -160,14 +160,14 @@ background-color:#D8C521;
 	font-family:"arial","times-new-roman";
     line-height:1.5em;
 	}
-<!--css of donation of donation page-->
+
 #donation{
 margin:10px 10px 0px 10px;
 padding:10px 10px 0px 10px;
 font-size:20px;
 line-height:1.5em;
 }
-<!--css of contact us of contact page-->
+
 #contact{
 font-size:25px;
 margin:10px 10px 0px 10px;
