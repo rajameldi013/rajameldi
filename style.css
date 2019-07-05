@@ -33,13 +33,7 @@ height:120px;
 	float:right;
 	width:100px;
 }
-<!--css of footer-->
-#footer{
-	background-color:#32A700;
-       color:white;
-   text-align:center;
-border-radius:30px;
-}
+
 <!--css of menu-->
 #menu{
 background-color:#32A700;
@@ -101,7 +95,13 @@ margin:right:auto;
 padding:10px;
 flex:1;
 }
-
+<!--css of footer-->
+#footer{
+	background-color:#32A700;
+       color:white;
+   text-align:center;
+border-radius:30px;
+}
 
 
 #copyright{
