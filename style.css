@@ -174,7 +174,7 @@ background-color:#D8C521;
 
 #act{
 border:solid;
-border-image:conic-gradient(#15DB08,#4A61F5,#5BF3E7) 20/5px;
+border-image:conic-gradient(#15DB08,#4A61F5,#5BF3E7) 20/2px;
 margin-left:5px;
 margin-right:5px;
 }
