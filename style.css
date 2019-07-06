@@ -92,8 +92,8 @@ display:flex;
 width:100%;
 }
 .link{
-margin-left:2px;
-margin:right:2px;
+margin-left:4px;
+margin:right:4px;
 padding:10px;
 flex:1;
 border-radius:15px;	
