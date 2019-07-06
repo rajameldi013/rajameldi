@@ -177,6 +177,7 @@ border:solid 5px;
 border-image:conic-gradient(#15DB08,#4A61F5,#5BF3E7) 20/5px;
 margin-left:5px;
 margin-right:5px;
+border-radius:25px;	
 }
 .content{
 margin:10 10 `10 10px;
