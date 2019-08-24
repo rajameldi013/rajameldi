@@ -73,10 +73,8 @@ flex:1;
 }
 .img-2{
 float:left;
-border:15px solid transparent;
-border-image-source:url("E:\Raja Meldi\images\border.jpg");
-border-image-repeat:round;
-border-image-slice:10;
+border: 5px solid #ddd;
+border-radius:25px;
 margin:10px 10px 10px 10px;
 }
 .welcome{
