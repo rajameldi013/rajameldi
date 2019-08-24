@@ -183,7 +183,7 @@ margin-right:5px;
 margin:10px 10px 10px 10px;
 padding:10px 10px 10px 10px;
 }
-.row{
+<!--.row{
 display:flex;
 flex-wrap:wrap;
 padding:0 4px;
@@ -199,7 +199,7 @@ margin-top:8px;
 margin-bottom:8px;
 vertical-align:middle;
 width:90%;
-}
+}-->
 
 @media screen and (max-width:800px){
 .column{
