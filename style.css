@@ -73,7 +73,9 @@ flex:1;
 }
 .img-2{
 float:left;
-border: 5px solid #ddd;
+border-width:10px 10px 10px 10px;
+border-style:solid solid solid solid;
+border-color:#b2f6f5 #a3f9cb #b2f6f5 #a3f9f5;
 border-radius:25px;
 margin:10px 10px 10px 10px;
 }
