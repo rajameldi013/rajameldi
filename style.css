@@ -190,7 +190,7 @@ padding:0 4px;
 }
 .column{
 flex:50%;
-max-width:33.33%;
+max-width:32%;
 padding:0 4px;
 }
 .column img{
