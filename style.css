@@ -69,8 +69,7 @@ flex:1;
 }
 
 #content{
-word-spacing:15px;
-	line-height:1.5em;
+
 }
 .img-2{
 float:left;
@@ -181,6 +180,8 @@ margin-left:10px;
 margin-right:10px;
 }
 .content{
+	word-spacing:15px;
+	line-height:1.5em;
 margin:10px 10px 10px 10px;
 padding:10px 10px 10px 10px;
 }
